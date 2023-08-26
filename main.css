@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(108, 106, 237);
+}
+.heading {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgba(39, 37, 37, 0.436);
+}
+span{
+    color: yellow;
+}
+#dau {
+    font-size: 45px;
+}
+ins{
+    color: red;
+}
+.mau{
+    color: white;
+}
